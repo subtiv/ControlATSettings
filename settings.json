@@ -1,0 +1,9 @@
+{
+    "streams" : [
+        {
+            "name" : "test stream 1",
+            "type" : "FLOAT",
+            "group" : "tests"
+        }
+    ]
+}
