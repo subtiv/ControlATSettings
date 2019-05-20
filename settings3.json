@@ -13,6 +13,12 @@
             "group" : "tests"
         },
         {
+            "name" : "teststream4",
+            "type" : "FLOAT",
+            "description" : "this is an empty stream",
+            "group" : "othertests"
+        },
+        {
             "name" : "teststream3",
             "type" : "STRING",
             "description" : "this is a server generated datastream for developing purposes",
