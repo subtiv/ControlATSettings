@@ -3,6 +3,7 @@
         {
             "name" : "test stream 1",
             "type" : "FLOAT",
+            "description" : "this is a server generated datastream for developing purposes",
             "group" : "tests"
         }
     ]
