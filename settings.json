@@ -19,7 +19,7 @@
             "group" : "othertests"
         },
         {
-            "name" : "teststream3",
+            "name" : "teststream4",
             "type" : "FLOAT",
             "description" : "testing if it gets accepted",
             "group" : "othertests"
