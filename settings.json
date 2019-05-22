@@ -27,8 +27,14 @@
         {
             "name" : "vdmxsubtiv",
             "type" : "FLOAT",
-            "description" : "sending data from vdxm",
+            "description" : "sending data from vdmx",
             "group" : "othertests"
+        },
+            {
+            "name" : "beauischaud",
+            "type" : "FLOAT",
+            "description" : "just testing around",
+            "group" : "petrischaaltjes"
         }
     ]
 }
