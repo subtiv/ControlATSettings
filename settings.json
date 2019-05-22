@@ -23,6 +23,12 @@
             "type" : "FLOAT",
             "description" : "testing if it gets accepted",
             "group" : "othertests"
+        },
+        {
+            "name" : "teststream5",
+            "type" : "FLOAT",
+            "description" : "testing if it gets newly accepted",
+            "group" : "othertests"
         }
     ]
 }
