@@ -25,9 +25,9 @@
             "group" : "othertests"
         },
         {
-            "name" : "teststream5",
+            "name" : "vdmxsubtiv",
             "type" : "FLOAT",
-            "description" : "testing if it gets newly accepted",
+            "description" : "sending data from vdxm",
             "group" : "othertests"
         }
     ]
