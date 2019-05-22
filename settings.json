@@ -35,6 +35,12 @@
             "type" : "FLOAT",
             "description" : "just testing around",
             "group" : "petrischaaltjes"
+        },
+            {
+            "name" : "jorgesound",
+            "type" : "FLOAT",
+            "description" : "just testing around with sound from vdmx",
+            "group" : "light"
         }
     ]
 }
