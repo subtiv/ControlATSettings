@@ -17,6 +17,12 @@
             "type" : "STRING",
             "description" : "this is a server generated datastream for developing purposes",
             "group" : "othertests"
+        },
+        {
+            "name" : "teststream3",
+            "type" : "FLOAT",
+            "description" : "testing if it gets accepted",
+            "group" : "othertests"
         }
     ]
 }
