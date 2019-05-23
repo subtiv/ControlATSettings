@@ -41,6 +41,19 @@
             "type" : "FLOAT",
             "description" : "just testing around with sound from vdmx",
             "group" : "light"
+        },
+        {
+            "name" : "peopleCounterFloat",
+            "type" : "FLOAT",
+            "description" : "amount of people visiting",
+            "group" : "light"
+        },
+        {
+            "name" : "peopleCounterString",
+            "type" : "STRING",
+            "description" : "amount of people visiting",
+            "group" : "light"
         }
+        
     ]
 }
